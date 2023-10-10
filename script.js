@@ -5,7 +5,9 @@ const person = {
   age: 80,
 };
 
-const team=["John"];
+let team=["John", "Bob", "Alice", "Poppy"];
+team[3]="dhoni";
+
 const team1=["John", "Bob", "Alice", "Poppy"];
 const cap1={
   name: "John Doe",
